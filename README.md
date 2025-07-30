@@ -36,7 +36,7 @@ A modern, full-stack **villa reservation platform** built with **Next.js 14**, *
 
 <p>
   <img src="./screenshots/w5.png" width="500" alt="Confirmation screen" /><br>
-  <strong>About US page</strong>
+  <strong>About US Page</strong>
 </p>
 <br>
 
